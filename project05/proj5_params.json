@@ -1,0 +1,1 @@
+{"original_frequency": "D", "target_frequency": "W", "downsample_periods": 3, "downsample_units": "d", "upsample_periods": 2, "upsample_units": "h", "interpolation": "polynomial", "interpolation_order": 3, "sensors_periods": 10, "sensors_units": "s"}
