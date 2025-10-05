@@ -1,0 +1,23 @@
+*.
+
+# Ignore CSV files
+*.csv
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore JSON files
+*.json
+
+# Ignore Markdown files
+*.md
+
+# Ignore HMAC files
+*.hmac
+
+*.pkl
+
+*.txt
+
+*.pdf
+.ipynb_checkpoints/ 
